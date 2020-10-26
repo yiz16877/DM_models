@@ -1,2 +1,3 @@
 # DM_models
-Data Mining basic models
+Machine Learning models implemented with python
+
